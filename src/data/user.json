@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "card": {
+      "title": "IVAN IVANIbCH",
+      "images": {
+        "image": {
+          "path": "https://cdn.dodostatic.net/static/Img/ComboTemplates/922a6d2b92b0455688be6bb39bf787e0_1875x1875.webp",
+          "description": "ХАТАБЫЧ"
+        }
+      },
+      "assessment": 6.9,
+      "price": 300,
+      "favorites": false,
+      "categories": ["Торты", "Конфеты"],
+      "description": [
+        "Я ЕЛЕКСИР РАЗРАБ ГОНИ МАНИ БИЧ",
+        "sdad 21323 1sf w 132131312312312312313 12312222223132132321 323123131231 31312313232131 23213131313213 1232131232132312321312312321313123"
+      ]
+    }
+  }
+]

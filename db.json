@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "IVAN IVANIbCH",
+      "images": {
+        "image": {
+          "path": "https://cdn.dodostatic.net/static/Img/ComboTemplates/922a6d2b92b0455688be6bb39bf787e0_1875x1875.webp",
+          "description": "ХАТАБЫЧ"
+        }
+      },
+      "assessment": 6.9,
+      "numberOfReviews": 12,
+      "price": 300,
+      "favorites": false,
+      "categories": ["Торты", "Конфеты"],
+      "description": [
+        "Я ЕЛЕКСИР РАЗРАБ ГОНИ МАНИ БИЧ",
+        "sdad 21323 1sf w 132131312312312312313 12312222223132132321 323123131231 31312313232131 23213131313213 1232131232132312321312312321313123"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "ТАТАРИН",
+      "images": {
+        "image": {
+          "path": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/ec29465e-606b-4a04-a03e-da3940d37e0e.jpg",
+          "description": "ХАТАБЫЧ"
+        }
+      },
+      "assessment": 7.9,
+      "numberOfReviews": 2,
+      "price": 400,
+      "favorites": false,
+      "categories": ["Торты", "Конфеты"],
+      "description": [
+        "Я lorem",
+        "sdad 21323 1sf w 132131312312312312313 12312222223132132321 323123131231 31312313232131 23213131313213 1232131232132312321312312321313123"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "КАЗАХ",
+      "images": {
+        "image": {
+          "path": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d2e337e9-e07a-4199-9cc1-501cc44cb8f8.jpg",
+          "description": "ХАТАБЫЧ"
+        }
+      },
+      "assessment": 8.9,
+      "numberOfReviews": 22,
+      "price": 500,
+      "favorites": false,
+      "categories": ["Торты", "Конфеты"],
+      "description": [
+        "Я pivo",
+        "sdad 21323 1sf w 132131312312312312313 12312222223132132321 323123131231 31312313232131 23213131313213 1232131232132312321312312321313123"
+      ]
+    }
+  ]
+}
